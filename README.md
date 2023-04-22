@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Klovy1397
 - 👀 I’m interested in IT (e.t.c. programming, configuring servers)
 - 🌱 I’m currently learning in school average
-- 📫 How to reach me? Just mail me to contakt@klovy.pl
+- 📫 How to reach me? Just mail me to contact@klovy.pl
 
 
 <!---
